@@ -1,0 +1,182 @@
+#container {
+    width: 1250px;
+    margin: auto;
+}
+
+#banner {
+    border: 1px solid black;
+    width: 1250px;
+    height: 250px;
+}
+
+#banner img{
+    width: 1250px;
+    height: 250px;
+}
+
+#menu ul li{
+    text-decoration: none;
+    list-style-type: none;
+    font-family: Arial;
+}
+
+#menu ul li a{
+    text-decoration: none
+}
+
+#button {
+    padding-bottom: 10px;
+}
+
+button {
+    height: 40px;
+    width: 175px;
+    background-color: blueviolet;
+}
+
+#button a:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+    color: black;
+}
+
+#left-content #menu ul li a:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+    color: black;
+}
+#TFT a:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+    color: rgb(99, 9, 159);
+}
+#TFT {
+    font-size: x-large;
+}
+
+#TFT a{
+    color: black;   
+}
+
+#body-content{
+    width: auto;
+}
+
+#body-content #left-content{
+    background-color: rgb(212, 55, 243);
+    width: 250px;
+    height: 500px;
+    float: left;
+}
+
+#body-content #left-content ul{
+    list-style: none;
+}
+
+#body-content #left-content ul li{
+    padding: 10px;
+    font-family: Arial;
+    letter-spacing: 1px;
+}
+
+#body-content #left-content ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#body-content #left-content ul li a:visited{
+    color: black;
+}
+#body-content #centeright-content{
+    width: 970px;
+    height: 500px;	
+    float: right;
+}
+
+#centeright-content{
+    background-color: rgb(193, 130, 252);
+}
+
+#centeright-content {
+    padding-right: 20px;
+    padding-left: 10px;
+    font-family: Arial;
+    text-decoration: none;
+    font-size: large;
+}
+
+#guider a:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+    color: rgb(99, 9, 159);
+}
+
+#guider a{
+    text-decoration: none;
+}
+
+#guider {
+    font-size: medium;
+}
+
+#subcontent {
+    padding-left: 10px;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: medium;
+}
+
+#body-content #centeright-contact{
+    width: 1000px;
+    height: 500px;	
+    float: inline-start;
+}
+
+#centeright-contact{
+    background-color: rgb(193, 130, 252);
+}
+
+#centeright-contact {
+    font-family: Arial;
+    text-decoration: none;
+    font-size: large;
+    float: right;
+}
+
+#centeright-contact #contact ul li{
+    padding: 10px;
+    font-family: Arial;
+    letter-spacing: 1px;
+}
+
+#contact ul{
+    list-style: none;
+}
+
+#contact ul li{
+    font-size: x-large;
+    float: left;
+    display: inline
+}
+
+#contact ul li a:hover{
+    font-weight: bolder;
+    text-decoration: underline;
+    color: black;
+}
+
+#bottom img{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    width: 260px;
+    height: 175px;
+}
+
+
+#aug img{
+    padding-left: 50px;
+    padding-bottom: 10px;
+    width: 260px;
+    height: 150px;
+}
